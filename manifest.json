@@ -1,7 +1,7 @@
 {
-  "name": "СПФ Планувальник відвідувань v13",
-  "short_name": "СПФ v13",
-  "start_url": "./index.html?v=13",
+  "name": "СПФ Планувальник відвідувань",
+  "short_name": "СПФ",
+  "start_url": "./index.html?build=14",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f5f7fb",
