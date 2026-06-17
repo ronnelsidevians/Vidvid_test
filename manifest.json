@@ -1,7 +1,7 @@
 {
   "name": "СПФ Планувальник",
   "short_name": "СПФ",
-  "start_url": "./index.html?servicefix=8",
+  "start_url": "./index.html?polished=5",
   "scope": "./",
   "display": "standalone",
   "icons": [
