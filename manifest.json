@@ -1,10 +1,10 @@
 {
   "name": "СПФ Планувальник",
   "short_name": "СПФ",
-  "start_url": "./index.html?final=1",
+  "start_url": "./index.html?rebuilt=4",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f5f7fb",
+  "background_color": "#f6f8fc",
   "theme_color": "#2563eb",
   "icons": [
     {
