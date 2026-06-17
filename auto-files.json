@@ -1,14 +1,10 @@
 {
   "cycle": [
-    "Циклограма 2025 – копія.xlsx",
-    "Циклограма 2025 - копія.xlsx",
     "Циклограма.xlsx",
     "cycle.xlsx"
   ],
   "workers": [
-    "Працівники.xlsx",
-    "Працівники.csv",
-    "workers.xlsx",
-    "workers.csv"
+    "workers.csv",
+    "Працівники.csv"
   ]
 }
