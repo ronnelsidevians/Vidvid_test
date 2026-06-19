@@ -1,7 +1,7 @@
 {
   "name": "Планувальник відвідуваннь дільниць",
   "short_name": "Планувальник",
-  "start_url": "./index.html?warnfix=9",
+  "start_url": "./index.html?v=10",
   "scope": "./",
   "display": "standalone",
   "icons": [
